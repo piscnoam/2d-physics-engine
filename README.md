@@ -3,31 +3,30 @@ A physics-based particle simulator built in Python using Pygame and NumPy. Parti
 ⸻
 
 🚀 Features
-    •    Realistic gravitational attraction (with optional repulsion toggle)
-    •    Elastic or merging collisions
-    •    Click-and-drag launching system
-    •    Smooth trail rendering with fade
-    •    Adjustable gravity strength (using up and down arrow keys)
-    •    Pause/play, reset, and HUD display
-    •    Fully documented and modular code
+    - Realistic gravitational attraction (with optional repulsion toggle)
+    - Elastic or merging collisions
+    - Click-and-drag launching system
+    - Smooth trail rendering with fade
+    - Adjustable gravity strength (using up and down arrow keys)
+    - Pause/play, reset, and HUD display
+    - Fully documented and modular code
 
 ⸻
 
 🧪 Physics Modeled
-    •    Newton’s Law of Universal Gravitation:
-F = G * (m₁ * m₂) / r²
-    •    Elastic Collisions (conservation of momentum)
-    •    Kinetic and Potential Energy Tracking
+    - Newton’s Law of Universal Gravitation: F = G * (m₁ * m₂) / r²
+    - Elastic Collisions (conservation of momentum)
+    - Kinetic and Potential Energy Tracking
 
 ⸻
 
 🎮 Controls
-    •    Mouse drag and release: Launch a particle
-    •    Spacebar: Pause or unpause the simulation
-    •    G key: Toggle gravity between attraction and repulsion
-    •    M key: Toggle merge-on-collision mode
-    •    Up arrow key: Increase gravity strength
-    •    Down arrow key: Decrease gravity strength
+    - Mouse drag and release: Launch a particle
+    - Spacebar: Pause or unpause the simulation
+    - G key: Toggle gravity between attraction and repulsion
+    - M key: Toggle merge-on-collision mode
+    - Up arrow key: Increase gravity strength
+    - Down arrow key: Decrease gravity strength
 
 ⸻
 
